@@ -4,6 +4,8 @@ __A starter project for coding tennis kata in ES6 + Jest.__
 
 Minimal ES6 + Jest Starter for coding tennis kata.
 
+[YouTube Demo](https://youtu.be/KENtCeJtzJI)
+
 ## Dependency
 - Jest for testing
 - Babel for JavaScript transform
